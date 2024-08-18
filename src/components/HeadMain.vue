@@ -1,9 +1,9 @@
 <template>
 
     <div class="main-container py-6 flex justify-between items-center">
-        <div class=""><img src="../assets/images/logo.png" alt="" width="100" ></div>
+        <div class=""><img src="../assets/images/logo.png" alt="" width="100"></div>
         <ul class="flex gap-6 text-lg">
-            <li>House</li>
+            <li>Home</li>
             <li>Commercial Solar </li>
             <li>Residential Solar </li>
             <li>Contact</li>
